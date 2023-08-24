@@ -7,4 +7,5 @@ module.exports = [
     id: 2,
     text: "REST maps CRUDL operations to HTTP methods",
   },
+
 ];
